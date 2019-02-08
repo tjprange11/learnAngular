@@ -1,0 +1,41 @@
+<div class="row">
+  <table class="table">
+    <tbody>
+      <tr>
+        <td>
+          <label class="floating-label">Current Level : </label>
+          <input type="number" size="8" maxlength="2" class="form-control" [(ngModel)]="currentLevel">
+        </td>
+        <td>
+            <label class="floating-label">Target Level : </label>
+            <input type="number" size="8" maxlength="2" class="form-control" [(ngModel)]="TargetLevel">
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <label class="floating-label">Current XP : </label>
+            <input type="number" size="8" class="form-control" [(ngModel)]="currentXp">
+          </td>
+          <td>
+              <label class="floating-label">Target XP : </label>
+              <input type="number" size="8"  class="form-control" [(ngModel)]="targetXp">
+            </td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+<div class="row">
+  <table id="results_table" class="table">
+    <thead>
+      <tr>
+        <th width="20">Level</th>
+        <th colspan="2" class="action-header">Action</th>
+        <th>XP</th>
+        <th>Number</th>
+      </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+  </table>
+</div>

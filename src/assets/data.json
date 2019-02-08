@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Attack",
+        "description": "Allows players to wield stronger melee weapons and fight more accurately in Melee. ",
+        "isCombat": true 
+    },
+
+    {
+        "name": "Strength",
+        "description": "Allows players to deal more melee damage and equip certain weapons. It also gives access to several agility shortcuts.",
+        "isCombat": true
+    },
+
+    {
+        "name": "Defence",
+        "description": "Allows players to wear stronger armour and decrease chance of being hit (does not reduce damage dealt, as is a common misconception).",
+        "isCombat": true
+    },
+
+    {
+        "name": "Ranged",
+        "description": "Allows players to fight with missiles and projectiles from a distance.",
+        "isCombat": true
+    },
+
+    {
+        "name": "Prayer",
+        "description": "Allows players to pray for assistance, such as ability boosts.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Magic",
+        "description": "Allows players to cast spells and teleportation.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Runecrafting",
+        "description": "Allows players to make runes for Magic.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Construction",
+        "description": "Allows players to build a house.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Hitpoints",
+        "description": "Allows players to sustain more damage.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Agility",
+        "description": "Allows players to use shortcuts and increases the rate at which energy recharges.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Herblore",
+        "description": "Allows players to make potions.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Thieving",
+        "description": "Allows players to steal from market stalls and chests and pickpocket non-player characters.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Crafting",
+        "description": "Allows players to create items, from pottery to ranged armour.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Fletching",
+        "description": "Allows players to create projectiles (arrows, bolts) and bows which can be used for Ranged.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Slayer",
+        "description": "Allows players to kill certain monsters that can't normally be defeated.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Hunter",
+        "description": "Allows players to hunt and catch animals through various methods.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Mining",
+        "description": "Allows players to obtain ores from rocks.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Smithing",
+        "description": "Allows players to smelt ores into bars and smith bars into armour and weapons.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Fishing",
+        "description": "Allows players to catch fish.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Cooking",
+        "description": "Allows players to cook food. The food can then be eaten to heal players' Hitpoints.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Firemaking",
+        "description": "Allows players to make fires",
+        "isCombat": false
+    },
+
+    {
+        "name": "Woodcutting",
+        "description": "Allows players to cut down trees to obtain logs.",
+        "isCombat": false
+    },
+
+    {
+        "name": "Farming",
+        "description": "Allows players to grow plants (fruits, vegetables, herbs, trees, etc.).",
+        "isCombat": false
+    }
+
+]
